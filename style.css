@@ -8,7 +8,7 @@ h1 {
     text-align: center;
     font-size: 35pt;
 }
-#img-meal1{
+img{
     display: flex;
     margin-left: auto;
     margin: auto;
@@ -18,4 +18,18 @@ h1 {
 }
 li {
     margin: 5px;
+}
+a {
+    color: #DDDCD9;
+    text-decoration: none;
+    margin: 5px;
+}
+.links {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin: auto;
+    color: #DDDCD9;
+    /* text-decoration: none; */
+    font-size: 20pt;
 }
