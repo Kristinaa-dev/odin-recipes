@@ -17,7 +17,7 @@ img{
     height: 30%;
 }
 li {
-    margin: 5px;
+    margin: 8px;
 }
 a {
     color: #DDDCD9;
@@ -33,3 +33,7 @@ a {
     /* text-decoration: none; */
     font-size: 20pt;
 }
+/* .title {
+    font-size: 35pt;
+    color: white;
+} */
